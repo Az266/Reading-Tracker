@@ -40,7 +40,7 @@ The project uses the OpenLibrary Search API:
 
 # How the porgam works:
 1. install pip install -r requirements.txt
-2. Run the program: python assignment_2.py
+2. Run the program: python reading_book_tracker.py
 
 
 ## Technical Implementation
