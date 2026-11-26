@@ -65,5 +65,8 @@ To resolve this, i went for an iteratie approach where I  refractored the code s
 
 ![Book Tracker Sequence Diagram](images/sequence_diagram.png)
    
-
+## Future Improvements
+- Implement a database to replace CSV storage.
+- Develop a user-friendly graphical or web interface.
+- Improve error handling and input validation.
 
